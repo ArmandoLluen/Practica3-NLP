@@ -37,4 +37,4 @@ Este proyecto toma inspiración y utiliza conocimientos desarrollados en los sig
 
 1. Clona el repositorio o descarga los archivos en tu máquina local:
    ```bash
-   git clone  https://github.com/ArmandoLluen/Practica3-NLP
+   git clone  https://github.com/ArmandoLluen/Practica3-NLP.git
